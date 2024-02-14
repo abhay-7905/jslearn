@@ -1,1 +1,1 @@
-console.log('abhay')
+console.log(typeof null )       
